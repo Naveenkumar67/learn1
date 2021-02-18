@@ -7,7 +7,7 @@ class App extends Component {
 		super(props);
 	};
 handle(){
-<p>Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
+<p>Hello, I've learnt to use the full-stack evaluation tool. Hi ,This makes me so happy</p>
 	       
 }
     render() {
